@@ -6,6 +6,15 @@
 - MingW : Minimalist GNU for Windows
 
 ## Chapter 1 : Getting Started with C - Diving in
+### Some C standards
+- ANSI C : from the late 1980s
+- **C99** : from 1999
+- **C11** : from 2011
+
+### Words
+- Source file : contains your code.
+- Executable : file containing machine code.
+- Compiler : program which translates source code in machine code.
 
 ## Chapter 2 : Memory and Pointers - What are you pointing at?
 
