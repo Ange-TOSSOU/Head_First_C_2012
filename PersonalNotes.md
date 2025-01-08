@@ -16,5 +16,9 @@
 - scanf
 - atoi : convert text into a number
 
-## Words and Acronym
+## Words/Expressions and Acronyms
 - gcc : GNU Compiler Collection
+- Control and loop statements
+
+## Keep in mind
+- The `switch` statement will only check a **single value**.
